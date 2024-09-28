@@ -40328,7 +40328,7 @@ a.close.disabled {
 .tooltip-inner {
     max-width: 200px;
     padding: .25rem .5rem;
-    color: #ffffff;
+    color: #171717;
     text-align: center;
     background-color: #000;
     border-radius: .5rem
@@ -58639,52 +58639,52 @@ body.text-sm .control-sidebar {
 
 .badge.badge-homework {
     background-color: #446AD7;
-    color: #FAFAFA
+    color: #ffffff
 }
 
 .badge.badge-room {
     background-color: #b427fc;
-    color: #171717
+    color: #ffffff
 }
 
 .badge.badge-positive {
     background-color: #60C28A;
-    color: #171717
+    color: #ffffff
 }
 
 .badge.badge-negative {
     background-color: #d62518;
-    color: #171717
+    color: #dcdcdc
 }
 
 .badge.badge-neutral {
     background-color: #f90;
-    color: #171717
+    color: #ffffff
 }
 
 .badge.badge-option {
     background-color: #6f42c1;
-    color: #171717
+    color: #ffffff
 }
 
 .badge.badge-abs-not-excuse {
     background-color: #d62518;
-    color: #171717
+    color: #ffffff
 }
 
 .badge.badge-abs-excuse {
     background-color: #446AD7;
-    color: #171717
+    color: #ffffff
 }
 
 .badge.badge-late-not-excuse {
     background-color: #f2ab27;
-    color: #171717
+    color: #ffffff
 }
 
 .badge.badge-late-excuse {
     background-color: #566adf;
-    color: #171717
+    color: #ffffff
 }
 
 .badge.badge-rating {
@@ -58694,17 +58694,17 @@ body.text-sm .control-sidebar {
 
 .badge.badge-orange {
     background-color: #f90;
-    color: #171717
+    color: #ffffff
 }
 
 .badge.badge-assign {
-    background-color: #ffffff;
-    color: #171717
+    background-color: #000000;
+    color: #ffffff
 }
 
 .badge.badge-not-assign {
     background-color: #d62518;
-    color: #171717
+    color: #ffffff
 }
 
 .badge.badge-no-substitute {
@@ -58713,11 +58713,11 @@ body.text-sm .control-sidebar {
 
 .badge.badge-school-trip {
     background-color: #6f42c1;
-    color: #171717
+    color: #ffffff
 }
 
 .badge.badge-type_indiscipline,.badge.badge-type_remedial_work {
-    color: #171717
+    color: #000000
 }
 
 .badge.badge-type_retained {
@@ -61779,7 +61779,7 @@ body .fc {
 
 .table .badge {
     font-size: .825rem;
-    color: #171717
+    color: #ffffff
 }
 
 .table .badge_badge-abs-not-excuse {
