@@ -56820,7 +56820,7 @@ body.text-sm .control-sidebar {
     display: block;
     padding: 3px 20px;
     clear: both;
-    color: #333;
+    color: #ffffff;
     white-space: nowrap
 }
 
@@ -56848,7 +56848,7 @@ body.text-sm .control-sidebar {
     background-color: #171717;
     border: 1px solid #474747;
     border-radius: .3rem;
-    color: #333;
+    color: #ffffff;
     line-height: 1.6;
     margin: 4px 2px 0;
     padding: 0 .25em;
@@ -56919,7 +56919,7 @@ body.text-sm .control-sidebar {
 }
 
 .vs__search::placeholder {
-    color: inherit
+    color: #939393
 }
 
 .vs--unsearchable .vs__search {
