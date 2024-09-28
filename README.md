@@ -1,5 +1,5 @@
 # Extranet Themes
-Hey👋 Welcome to the Extranet Themes page. This is a project that offers themes for the extranet via a bookmarklet.
+Hey Welcome to the Extranet Themes page. This is a project that offers themes for the extranet via a bookmarklet.
 More themes and Chromium & Firefox extensions comming soon :)
 
 
