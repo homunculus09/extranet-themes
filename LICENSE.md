@@ -1,6 +1,6 @@
 **Homunculus09 License**
 
-Copyright (c) 2024 extranet-themes
+Copyright ©️ 2024 Extranet Themes
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and merge the Software for PERSONAL or INTERNAL purposes, subject to the following conditions:
 
