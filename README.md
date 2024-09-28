@@ -3,10 +3,10 @@ Hey Welcome to the Extranet Themes page. This is a project that offers themes fo
 More themes and Chromium & Firefox extensions comming soon :)
 
 
-The files on this site are not originally owned by me, if you would like to remove this repository due to copyright or other reasons, please contact me at wolberxd@gmail.com.
+A few files on this site are not originally owned by me and are modified versions, if you would like to remove this repository due to copyright or other reasons, please contact me at wolberxd@gmail.com.
 
-### Getting Started
-Currently, only one theme is available (which is still in beta), so bear with me.
+## Getting Started
+### Bookmarklet (iOS, iPadOS & Desktop Method)
 1. Head over to [default-dark/default-dark-bookmarklet.js](https://raw.githubusercontent.com/homunculus09/extranet-themes/refs/heads/main/default-dark/default-dark-bookmarklet.js)
 3. Copy all the text
 4. Head over to _any_ website and save the website to bookmarks or the bookmark bar folder.
@@ -16,7 +16,17 @@ Currently, only one theme is available (which is still in beta), so bear with me
 8. Rename the bookmark to _anything_ like **Dark** or **Extranet Dark Theme**
 9. Click on Save or Done and you've just made a bookmarklet.
 10. Head over to extranet, and press the bookmarklet to enable the theme.
-### FAQ
+
+### Extension (Desktop Only Method)
+_Sidenote: This extension is still in a beta phase, so look out for newer versions._
+1. Download [this](https://raw.githubusercontent.com/homunculus09/extranet-themes/refs/heads/main/default-dark/default_dark_extension.zip) Zip file.
+2. UnZip the file in a safe location where it won't be deleted, for example in your Documents folder.
+3. Head over to ````chrome://extensions````
+4. Enable **Developer Mode** in the top-right corner.
+5. Click on **Load unpacked** and select the folder that you saved in step 2.
+6. Head over to extranet and it should work.
+
+## FAQ
 **What are bookmarklets?**
 - Bookmarklets are small snippets of JavaScript code that run a script in your web browser's console.
 - Bookmarklets live in your bookmarks bar, and all you need to do is tap on the bookmark each time you re-open the website.
