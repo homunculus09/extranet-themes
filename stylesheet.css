@@ -6555,11 +6555,11 @@ a[data-goto]:hover {
     font-size: .85em;
     line-height: 1.4;
     border-radius: 3px;
-    border: 1px solid #2371BE
+    border: 1px solid #4D4D4D
 }
 
 .fc-event,.fc-event-dot {
-    background-color: #2371BE
+    background-color: #4D4D4D
 }
 
 .fc-event,.fc-event:hover {
@@ -7484,7 +7484,7 @@ a.fc-more:hover {
 
 .tippy-box {
     position: relative;
-    background-color: #333;
+    background-color: #404040;
     color: #FAFAFA;
     border-radius: 4px;
     font-size: 14px;
@@ -7546,7 +7546,7 @@ a.fc-more:hover {
 .tippy-arrow {
     width: 16px;
     height: 16px;
-    color: #333
+    color: #404040
 }
 
 .tippy-arrow:before {
@@ -60938,7 +60938,7 @@ body .fc {
     flex-shrink: 1;
     padding: .9375rem 0;
     width: 52px;
-    color: #171717;
+    color: #ffffff;
     text-align: center;
     border-radius: .3rem
 }
@@ -60949,7 +60949,7 @@ body .fc {
 }
 
 .item-grade__grade.grade-color-green {
-    background-color: #ffffff
+    background-color: #3D9F67
 }
 
 .item-grade__grade.grade-color-orange {
