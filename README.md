@@ -1,39 +1,24 @@
-![moxk](https://github.com/user-attachments/assets/f017ee72-8475-4b46-b920-8adbe8234921)
-# Extranet Themes
-Hey, welcome to the Extranet Themes page. This is a project that offers themes for the extranet via a bookmarklet.
-More themes and Chromium & Firefox extensions comming soon :)
+# Thème Extranet
 
+Quelques fichiers de ce site ne m'appartiennent pas à l'origine et sont des versions modifiées.
 
-A few files on this site are not originally owned by me and are modified versions, if you would like to remove this repository due to copyright or other reasons, please contact me at wolberxd@gmail.com.
+## Commencer
+### Bookmarklet (Méthode pour iOS, iPadOS et Desktop)
+1. Rendez-vous sur [default-dark/default-dark-bookmarklet.js](https://raw.githubusercontent.com/homunculus09/extranet-themes/refs/heads/main/default-dark/default-dark-bookmarklet.js).
+2. Copiez tout le texte.
+3. Rendez-vous sur _n'importe quel_ site web et enregistrez le site dans les favoris ou dans le dossier de la barre de favoris.
+4. Activez la barre de favoris si ce n'est pas déjà fait en appuyant sur **CTRL + SHIFT + B**.
+5. Faites un clic droit ou appuyez longuement sur le favori dans votre barre de favoris et cliquez sur **Modifier**.
+6. Collez le code dans l'espace d'entrée de l'URL.
+7. Renommez le favori avec un nom comme **Dark** ou **Thème Sombre Extranet**.
+8. Cliquez sur Enregistrer ou Terminé, et vous venez de créer un bookmarklet.
+9. Allez sur extranet et appuyez sur le bookmarklet pour activer le thème.
 
-## Getting Started
-### Bookmarklet (iOS, iPadOS & Desktop Method)
-1. Head over to [default-dark/default-dark-bookmarklet.js](https://raw.githubusercontent.com/homunculus09/extranet-themes/refs/heads/main/default-dark/default-dark-bookmarklet.js)
-3. Copy all the text
-4. Head over to _any_ website and save the website to bookmarks or the bookmark bar folder.
-5. Enable the bookmarks bar if not already done by pressing **CTRL + SHIFT + B**
-6. Right click or hold down the bookmark in your bookmarks bar and press on **Edit**.
-7. Paste the code into the URL entry space
-8. Rename the bookmark to _anything_ like **Dark** or **Extranet Dark Theme**
-9. Click on Save or Done and you've just made a bookmarklet.
-10. Head over to extranet, and press the bookmarklet to enable the theme.
-
-### Extension (Desktop Only Method)
-_Sidenote: This extension is still in a beta phase, so look out for newer versions._
-1. Download [this](https://raw.githubusercontent.com/homunculus09/extranet-themes/refs/heads/main/default-dark/default_dark_extension.zip) Zip file.
-2. UnZip the file in a safe location where it won't be deleted, for example in your Documents folder.
-3. Head over to ````chrome://extensions````
-4. Enable **Developer Mode** in the top-right corner.
-5. Click on **Load unpacked** and select the folder that you saved in step 2.
-6. Head over to extranet and it should work.
-
-## FAQ
-**What are bookmarklets?**
-- Bookmarklets are small snippets of JavaScript code that run a script in your web browser's console.
-- Bookmarklets live in your bookmarks bar, and all you need to do is tap on the bookmark each time you re-open the website.
-
-**How does it work?**
-- The code replaces the website's CSS code (on the client side, so this doesn't affect the site for anyone else) and changes the color values, fonts, font sizes, etc., within the site.
-
-**Is this dangerous?**
-- Not at all. The code is open-source, meaning you can inspect it yourself and check for anything malicious. We can't hide any dangerous files or code anywhere.
+### Extension (Méthode pour Desktop uniquement)
+_Remarque : Cette extension est encore en phase bêta, alors surveillez les nouvelles versions._
+1. Téléchargez [ce fichier](https://raw.githubusercontent.com/homunculus09/extranet-themes/refs/heads/main/default-dark/default_dark_extension.zip) Zip.
+2. Décompressez le fichier dans un endroit sûr où il ne sera pas supprimé, par exemple dans votre dossier Documents.
+3. Rendez-vous sur ````chrome://extensions````
+4. Activez **Mode développeur** dans le coin supérieur droit.
+5. Cliquez sur **Charger l'extension non empaquetée** et sélectionnez le dossier que vous avez sauvegardé à l'étape 2.
+6. Rendez-vous sur extranet et cela devrait fonctionner.
